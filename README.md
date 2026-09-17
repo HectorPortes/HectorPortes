@@ -1,7 +1,7 @@
 # Olá! Eu sou Héctor Portes 👋
 
-🎓 Técnico em Informática pelo IFMS
-💻 Estudante de Tecnologia em Sistemas para Internet no IFMS
+🎓 Técnico em Informática pelo IFMS<br>
+💻 Estudante de Tecnologia em Sistemas para Internet no IFMS<br>
 🚀 Desenvolvedor em formação, interessado em **Desenvolvimento Web, Ciências de Dados, Inteligência Artificial e Desenvolvimento Full Stack**.
 
 Tenho interesse em desenvolver aplicações web e APIs, trabalhar com dados e explorar aplicações de Inteligência Artificial. Busco integrar esses conhecimentos em projetos práticos, estudando diferentes tecnologias, arquiteturas e formas de resolver problemas de software.
